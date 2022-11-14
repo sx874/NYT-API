@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    margin: auto;
+    padding-top: 30px;
+}
+
+#title {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#author {
+    font-size: 34px;
+}
+
+#bttn {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
