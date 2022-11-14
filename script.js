@@ -1,5 +1,5 @@
 var nytimesURL = 'https://api.nytimes.com/svc/books/v3/lists/current/mass-market-monthly.json?api-key=';
-var apiKey = '0vEgCveIFyp3nadoKWQ62YJl0ww8hMck';
+var apiKey = '';
 var reqURL = nytimesURL + apiKey;
 
 const bttn = document.getElementById('bttn');
